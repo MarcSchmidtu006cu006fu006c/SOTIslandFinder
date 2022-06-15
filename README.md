@@ -16,3 +16,5 @@ and the file path of the image they want to compare is taken as input.
 To Use: 
 - In order to use the application all that is needed is IntelliJ paired with java JDK 15.0.2 and a copy of the mySQL single table database. 
 - The system can also be placed into a jar file and run in the command line paired with the mySQL database. 
+
+PLEASE NOTE ALL CODE IS LOCATED IN THE MASTER BRANCH
